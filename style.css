@@ -1,0 +1,25 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+p {
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body {
+    background-color:rgb(91, 148, 223);
+}
+
+footer{
+    text-align: center;
+    margin-top: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(99, 99, 95);
+    color: yellow;
+    font-size: 18px;
+    margin-left: 0;
+    margin-right: 0;
+}
